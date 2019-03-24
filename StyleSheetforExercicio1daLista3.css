@@ -1,0 +1,38 @@
+
+#tabela{
+	size:920px;
+	height:300px;
+	width:390px;
+	border-style:#e4eced;
+	background-color:#fffff9;
+
+}
+.button2 {
+	color:white;
+	background-color:#009393;
+	height:30px;
+	width:375px;
+}
+.button{
+	color:blue;
+	background-color:white;
+}
+
+#tabela2{
+	size:100px;
+	width:399px;
+	border-style:none;
+	background-color:#d8ecff;
+}
+
+login {
+	font-size:40px;
+	text-align:center;
+	color:#006f6f;
+}
+
+email {
+	font-size:15px;
+color:black;
+}
+
